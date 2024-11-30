@@ -1,0 +1,9 @@
+* stateless-iterators
+
+Lua-like stateless iterators for Common Lisp
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/shamazmazum/stateless-iterators.git |
+| commit  | 0d382f6                                                    |
+| systems | stateless-iterators                                        |
+|---------+------------------------------------------------------------|
